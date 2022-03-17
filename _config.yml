@@ -45,8 +45,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-url: "https://kimmisik.github.io/kms" 
-baseurl: "/kms"  
+url: "https://kimmisik.github.io/cjw" 
+baseurl: "/cjw"  
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
