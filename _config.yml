@@ -45,8 +45,8 @@ two_columns_layout: true
 
 
 # Advanced Settings
-url: "https://choijangwook.github.io/cjw" 
-baseurl: "/cjw"  
+url: "https://choijangwook.github.io/cyj" 
+baseurl: "/cyj"  
 google_analytics: "UA-XXXXXXXX-X"
 language: "en"
 categories_folder: category
