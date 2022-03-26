@@ -1,16 +1,16 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: KMS
-display_name:  CYJ
+name: CJW
+display_name:  CJW
 position: Chief Editor
 bio: Just a developer.
-github_username: CYJ
-facebook_username: CYJ
-twitter_username: CYJ
-instagram_username: CYJ
-linkedin_username: CYJ
-medium_username: CYJ
+github_username: CJW
+facebook_username: CJW
+twitter_username: CJW
+instagram_username: CJW
+linkedin_username: CJW
+medium_username: CJW
 
 ---
 
