@@ -1,2 +1,2 @@
 cd pys/dist
-htmlWeb.exe
+GuitarPro.exe
