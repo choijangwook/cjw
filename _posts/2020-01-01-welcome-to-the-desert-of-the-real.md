@@ -22,10 +22,15 @@ paginate: true
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 
-ㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱㄱ
+## Links
 
+[link text](http://dev.nodeca.com)
 
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
 
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+
+ㅌㅌㅌㅌㅌㅌㅌㅌ
 
 ---
 
